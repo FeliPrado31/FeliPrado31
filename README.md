@@ -1,4 +1,4 @@
-# Juan Felipe @FeliPrado2
+# Juan Felipe≡@FeliPrado2
 
 "Always do what you love", since I heard that I try to do what I like. That's why I spend most of my time learning new things.
 
