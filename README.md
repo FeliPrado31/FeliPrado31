@@ -8,4 +8,4 @@ I'm a lifelong learner. I can't imagine my life without creating, programming an
 
 * Twitter: https://twitter.com/FeliPrado2
 * Web: https://feli.gq
-* Linkedin: linkedin.com/in/juanfelipecubillosprado/
+* Linkedin: https://www.linkedin.com/in/juanfelipecubillosprado/
