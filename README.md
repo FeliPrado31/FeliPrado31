@@ -9,5 +9,5 @@ I'm a lifelong learner. I can't imagine my life without creating, programming an
 # Get in touch
 
 * Twitter: https://twitter.com/FeliPrado2
-* Web: https://feli.gq
+* Web: https://feli-web.glitch.me/
 * Linkedin: https://www.linkedin.com/in/juanfelipecubillosprado/
