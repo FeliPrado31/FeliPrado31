@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [test](test)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on [test](test)
 
