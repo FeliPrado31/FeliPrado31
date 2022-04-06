@@ -3,25 +3,34 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feliprado31&label=Profile%20views&color=0e75b6&style=flat" alt="feliprado31" /> </p>
 
-- 🔭 I’m currently working on [test](test)
+- 🔭 I’m currently working on **Sockets**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Sockets**
+
+<!--
 
 - 👯 I’m looking to collaborate on [test](test)
 
 - 🤝 I’m looking for help with [test](test)
+ 
+-->
 
 - 👨‍💻 All of my projects are available at [github.com/feliprado31](github.com/feliprado31)
 
 - 📝 I regularly write articles on [https://medium.com/@feliprado99](https://medium.com/@feliprado99)
 
-- 💬 Ask me about **react, redux, js**
+- 💬 Ask me about **react, redux, js, java, mysql, supabase, firebase, etc**
 
 - 📫 How to reach me **feliprado99@gmail.com**
 
+<!--
 - 📄 Know about my experiences [.](.)
 
+ 
 - ⚡ Fun fact **.**
+
+-->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
