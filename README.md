@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feliprado31&label=Profile%20views&color=0e75b6&style=flat" alt="feliprado31" /> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **TypeScript** & **React** With **Kaboom**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **[Kaboom](https://github.com/replit/kaboom)**
 
 <!--
 
