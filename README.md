@@ -31,6 +31,8 @@
 
 -->
 
+<a href="https://app.daily.dev/feliprado"><img src="https://api.daily.dev/devcards/v2/JjXjliADN5eico0ecr9KN.png?r=zht" width="356" alt="feliprado's Dev Card"/></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
