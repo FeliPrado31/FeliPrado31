@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TypeScript** & **React** With **Kaboom**
 
-- 🌱 I’m currently learning **[Kaboom](https://github.com/replit/kaboom)**
+- 🌱 I’m currently learning **[Software Design and Architecture]([https://github.com/replit/kaboom](https://roadmap.sh/software-design-architecture))**
 
 <!--
 
