@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feliprado31&label=Profile%20views&color=0e75b6&style=flat" alt="feliprado31" /> </p>
 
-- 🔭 I’m currently working on **TypeScript** & **React** With **Kaboom**
+- 🔭 I’m currently working on **[NoteFusion](https://github.com/FeliPrado31/NoteFusion)**
 
 - 🌱 I’m currently learning **[Software Design and Architecture](https://roadmap.sh/software-design-architecture)**
 
