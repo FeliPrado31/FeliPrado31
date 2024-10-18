@@ -24,13 +24,16 @@
 - 📫 How to reach me **feliprado99@gmail.com**
 
 <!--
+Badges
+-->
+
+<!--
 - 📄 Know about my experiences [.](.)
 
  
 - ⚡ Fun fact **.**
 
 -->
-
 <a href="https://app.daily.dev/feliprado"><img src="https://api.daily.dev/devcards/v2/JjXjliADN5eico0ecr9KN.png?r=zht" width="356" alt="feliprado's Dev Card"/></a>
 
 
@@ -46,3 +49,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feliprado31&show_icons=true&locale=en&layout=compact" alt="feliprado31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feliprado31&show_icons=true&locale=en" alt="feliprado31" /></p>
+
+<img src="https://raw.githubusercontent.com/FeliPrado31/FeliPrado31/refs/heads/master/conversor-de-moneda.webp"/>
+
