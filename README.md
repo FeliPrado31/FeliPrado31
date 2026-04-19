@@ -1,3 +1,10 @@
+<p align="center"><img 
+  src="https://lp-climb.onrender.com/v1/render.svg?user=feliprado31&style=card&theme=rift&width=900&height=260&_t=1776641693130" 
+  alt="LP Climb Stats"
+  width="900"
+  height="260"
+></p>
+
 <h1 align="center">Hi 👋, I'm Feli</h1>
 <h3 align="center">A passionate Software Developer from Colombia</h3>
 
