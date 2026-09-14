@@ -37,10 +37,10 @@ Impulso flujos de desarrollo acelerado con IA (Claude Code) combinando SDD y TDD
 <h3 align="center">Highlights</h3>
 
 <p align="center">
-🚀 Backends multi-región de alto tráfico, con foco en escalabilidad y confiabilidad<br>
-🤖 Sistemas multi-agente autónomos en producción<br>
-🔍 Búsqueda semántica/visual en tiempo casi real con embeddings y ANN<br>
-👁️ Modelos custom de visión por computador para catálogos a gran escala
+🚀 Sistemas backend de alto tráfico, con foco en escalabilidad y confiabilidad<br>
+🤖 Soluciones de IA autónoma llevadas a producción<br>
+🔍 Búsqueda inteligente en tiempo casi real<br>
+👁️ Visión por computador aplicada a gran escala
 </p>
 
 <br>
