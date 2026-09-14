@@ -1,4 +1,4 @@
-<h1 align="center">Juan Felipe Cubillos Prado</h1>
+<h1 align="center">Feli</h1>
 <h3 align="center">Software Engineer & AI Specialist</h3>
 
 <p align="center">
