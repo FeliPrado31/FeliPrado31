@@ -37,10 +37,10 @@ Impulso flujos de desarrollo acelerado con IA (Claude Code) combinando SDD y TDD
 <h3 align="center">Highlights</h3>
 
 <p align="center">
-🚀 Servicios en <b>+10 países</b>, hasta ~4.8K usuarios concurrentes, 1 solo error en un mes<br>
-🤖 Agentes orquestadores autónomos en producción con AWS Bedrock + Strands<br>
+🚀 Backends multi-región de alto tráfico, con foco en escalabilidad y confiabilidad<br>
+🤖 Sistemas multi-agente autónomos en producción<br>
 🔍 Búsqueda semántica/visual en tiempo casi real con embeddings y ANN<br>
-👁️ Modelos custom en AWS Rekognition para detección de marcas a gran escala
+👁️ Modelos custom de visión por computador para catálogos a gran escala
 </p>
 
 <br>
@@ -48,7 +48,7 @@ Impulso flujos de desarrollo acelerado con IA (Claude Code) combinando SDD y TDD
 <h3 align="center">Ahora mismo</h3>
 
 <p align="center">
-🔭 Construyendo sistemas de IA generativa y agentes autónomos en <b>Dropi</b><br>
+🔭 Construyendo sistemas de IA generativa y agentes autónomos<br>
 🌱 Profundizando en Ciencia de Datos y arquitecturas escalables (Hexagonal, Vertical Slicing)
 </p>
 
